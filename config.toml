@@ -64,7 +64,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         icon_pack = "fab"
     [[params.social]]
         url = "mailto:luisjuncaldev@gmail.com"  # For a direct email link, use "mailto:test@example.org".
-        icon = "paper-plane" # icon name without the 'fa-'
+        icon = "envelope" # icon name without the 'fa-'
         icon_pack = "fas"
 
 # If you don't want to use the default menu, you can define one by yourself
